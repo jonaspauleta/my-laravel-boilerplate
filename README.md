@@ -29,6 +29,7 @@ I still need to install and setup:
 - Email (for the password recovery, etc.)
 - Log Viewer on the frontend
 - Database manager on the frontend
+- Maybe install Larastan
 
 ## Installation
 
